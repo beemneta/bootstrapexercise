@@ -1,0 +1,58 @@
+.header {
+
+color: DarkSlateGrey;
+
+}
+
+[href*="ee491"]{
+
+	font-weight: bold;
+	font-family: "Courier New", Serif;
+	text-decoration:none;
+	color:black;
+
+}
+
+img {
+
+	float:right;
+	padding:20px;
+
+}
+
+hr {
+	
+	clear:both;
+
+}
+
+
+.books{
+
+
+}
+
+
+
+[personal="Favorite"], .boxer#champion a {
+
+	color:gold;
+	font-weight:bold;
+
+}
+
+ul {
+	list-style-type:upper-roman;
+	font-style: italic;
+
+}
+
+
+a:hover {
+
+	background-color: grey;
+	color:gold;
+
+}
+
+
